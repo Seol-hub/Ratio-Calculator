@@ -1,8 +1,8 @@
-## // Summary //
+## Summary
 
 When editing a picture or picture, there is a situation where you need to change the size, and a useful program at that time.
 
-## // Source Code //
+## Source Code
 ![스크린샷 2024-03-03 123136](https://github.com/Seol-hub/Ratio-Calculator/assets/141290630/13d6b2d3-c55a-482e-ba4d-bc0e3630e472) <br/>
 : recursive function that returns the maximum common divisor
 
